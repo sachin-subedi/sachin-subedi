@@ -34,7 +34,7 @@ I work at the intersection of **avian influenza, wild bird ecology, poultry heal
 
 ## 📌 Current focus
 
-- Ecological & evolutionary analysis of **2.3.4.4b H5Nx HPAI spread** across European habitats and “GeoClusters”
+- Ecological & evolutionary analysis of **2.3.4.4b H5Nx HPAI spread**
 - GLM-based and deep-learning models to **predict spillover risk** at fine spatial and temporal scales
 - Cleaning and documenting pipelines so others can build on my code and data workflows
 
